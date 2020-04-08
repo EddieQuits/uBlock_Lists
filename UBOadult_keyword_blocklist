@@ -1,163 +1,326 @@
-||*.live*^$all
-||*.online*^$all
-||*18 usc*^$all
-||*anal*^$all
-||*babes*^$all
-||*beastiality*^$all
-||*blowjob*^$all
-||*boner*^$all
-||*boob*^$all
-||*ceicaptions*^$all
-||*cock*^$all
-||*cum*^$all
-||*cunt*^$all
-||*fetish*^$all
-||*forcedbi*^$all
-||*freesex*^$all
-||*galore*^$all
-||*gone wild*^$all
-||*handjob*^$all
-||*hypno*^$all
-||*incest*^$all
-||*jackoff*^$all
-||*juggs*^$all
-||*kinky*^$all
-||*knickers*^$all
-||*lingerie*^$all
-||*masturbation*^$all
-||*milf*^$all
-||*not safe 4 work*^$all
-||*not safe for work*^$all
-||*nsfw*^$all
-||*nude*^$all
-||*nudity*^$all
-||*panties*^$all
-||*pleasure*^$all
-||*porn*^$all
-||*sex*^$all
-||*sexy model*^$all
-||*sexy tube*^$all
-||*sexy video*^$all
-||*sissi*^$all
-||*sissy*^$all
-||*tits*^$all
-||*usaxtube.com*^$all
-||*vids*^$all
-||*xtube*^$all
-||*xxx*^$all
-||xhamster.*^$all
-||*adult film*^$all
-||*adult movie*^$all
-||*adult video*^$all
-||*ass*^$all
-||*bara*^$all
-||*barely legal*^$all
-||*bdsm*^$all
-||*bisexual*^$all
-||*bitch*^$all
-||*bondage*^$all
-||*bound & gagged*^$all
-||*bound and gagged*^$all
-||*breast*^$all
-||*breasts*^$all
-||*bukkake*^$all
-||*butt*^$all
-||*cameltoe*^$all
-||*condom*^$all
-||*creampie*^$all
-||*cuckold*^$all
-||*cuck-old*^$all
-||*deap throat*^$all
-||*deap throat*^$all
-||*deapthroat*^$all
-||*deapthroat*^$all
-||*deap-throat*^$all
-||*deap-throat*^$all
-||*deep thraot*^$all
-||*deep throat*^$all
-||*deepthraot*^$all
-||*deep-thraot*^$all
-||*deepthroat*^$all
-||*deep-throat*^$all
-||*dick*^$all
-||*emetophilia*^$all
-||*erection*^$all
-||*erections*^$all
-||*erotic*^$all
-||*erotica*^$all
-||*escort*^$all
-||*facesitting*^$all
-||*facial*^$all
-||*felching*^$all
-||*femdon*^$all
-||*fisting*^$all
-||*fuck*^$all
-||*futanari*^$all
-||*gapping*^$all
-||*gay*^$all
-||*gentlemens club*^$all
-||*glory hole*^$all
-||*gloryhole*^$all
-||*gonzo*^$all
-||*guro*^$all
-||*hardon*^$all
-||*hard-on*^$all
-||*hentai*^$all
-||*hermaphrodite*^$all
-||*hidden camera*^$all
-||*hump*^$all
-||*humped*^$all
-||*humping*^$all
-||*hustler*^$all
-||*jerking off*^$all
-||*lesbian*^$all
-||*lolicon*^$all
-||*mature*^$all
-||*mens club*^$all
-||*menstral*^$all
-||*menstraul*^$all
-||*menstrual*^$all
-||*milking*^$all
-||*naked*^$all
-||*naughty*^$all
-||*orgasm*^$all
-||*orgie*^$all
-||*orgy*^$all
-||*pearl necklace*^$all
-||*pegging*^$all
-||*penetration*^$all
-||*penis*^$all
-||*playboy*^$all
-||*playgirl*^$all
-||*playguy*^$all
-||*pov*^$all
-||*preggo*^$all
-||*pregnant*^$all
-||*pubic*^$all
-||*pussy*^$all
-||*rape*^$all
-||*rimjob*^$all
-||*scat*^$all
-||*semen*^$all
-||*skank*^$all
-||*slut*^$all
-||*snuf*^$all
-||*snuff*^$all
-||*sperm*^$all
-||*squirt*^$all
-||*swapping*^$all
-||*threesome*^$all
-||*tranny*^$all
-||*tube8*^$all
-||*twink*^$all
-||*upskirt*^$all
-||*vagina*^$all
-||*virgin*^$all
-||*whore*^$all
-||*wore*^$all
-||*xxx*^$all
-||*yaoi*^$all
-||*yif*^$all
-||*yiff*^$all
-||*yiffy*^$all
-||*yuri*^$all
+||*.live*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*.live*^$document
+||*.online*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*.online*^$document
+||*18 usc*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*18 usc*^$document
+||*adult film*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*adult film*^$document
+||*adult movie*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*adult movie*^$document
+||*adult video*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*adult video*^$document
+||*anal*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*anal*^$document
+||*ass*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*ass*^$document
+||*babes*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*babes*^$document
+||*bara*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*bara*^$document
+||*barely legal*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*barely legal*^$document
+||*bdsm*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*bdsm*^$document
+||*beastiality*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*beastiality*^$document
+||*bisexual*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*bisexual*^$document
+||*bitch*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*bitch*^$document
+||*blowjob*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*blowjob*^$document
+||*bondage*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*bondage*^$document
+||*boner*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*boner*^$document
+||*boob*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*boob*^$document
+||*bound & gagged*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*bound & gagged*^$document
+||*bound and gagged*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*bound and gagged*^$document
+||*breast*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*breast*^$document
+||*breasts*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*breasts*^$document
+||*bukkake*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*bukkake*^$document
+||*butt*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*butt*^$document
+||*cameltoe*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*cameltoe*^$document
+||*ceicaptions*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*ceicaptions*^$document
+||*cock*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*cock*^$document
+||*condom*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*condom*^$document
+||*creampie*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*creampie*^$document
+||*cuckold*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*cuck-old*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*cuckold*^$document
+||*cuck-old*^$document
+||*cum*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*cum*^$document
+||*cunt*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*cunt*^$document
+||*deap throat*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*deap throat*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*deap throat*^$document
+||*deap throat*^$document
+||*deapthroat*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*deapthroat*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*deap-throat*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*deap-throat*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*deapthroat*^$document
+||*deapthroat*^$document
+||*deap-throat*^$document
+||*deap-throat*^$document
+||*deep thraot*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*deep thraot*^$document
+||*deep throat*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*deep throat*^$document
+||*deepthraot*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*deep-thraot*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*deepthraot*^$document
+||*deep-thraot*^$document
+||*deepthroat*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*deep-throat*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*deepthroat*^$document
+||*deep-throat*^$document
+||*dick*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*dick*^$document
+||*emetophilia*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*emetophilia*^$document
+||*erection*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*erection*^$document
+||*erections*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*erections*^$document
+||*erotic*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*erotic*^$document
+||*erotica*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*erotica*^$document
+||*escort*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*escort*^$document
+||*facesitting*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*facesitting*^$document
+||*facial*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*facial*^$document
+||*felching*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*felching*^$document
+||*femdon*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*femdon*^$document
+||*fetish*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*fetish*^$document
+||*fisting*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*fisting*^$document
+||*forcedbi*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*forcedbi*^$document
+||*freesex*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*freesex*^$document
+||*fuck*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*fuck*^$document
+||*futanari*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*futanari*^$document
+||*galore*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*galore*^$document
+||*gapping*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*gapping*^$document
+||*gay*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*gay*^$document
+||*gentlemens club*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*gentlemens club*^$document
+||*glory hole*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*glory hole*^$document
+||*gloryhole*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*gloryhole*^$document
+||*gone wild*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*gone wild*^$document
+||*gonzo*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*gonzo*^$document
+||*guro*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*guro*^$document
+||*handjob*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*handjob*^$document
+||*hardon*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*hard-on*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*hardon*^$document
+||*hard-on*^$document
+||*hentai*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*hentai*^$document
+||*hermaphrodite*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*hermaphrodite*^$document
+||*hidden camera*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*hidden camera*^$document
+||*hump*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*hump*^$document
+||*humped*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*humped*^$document
+||*humping*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*humping*^$document
+||*hustler*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*hustler*^$document
+||*hypno*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*hypno*^$document
+||*incest*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*incest*^$document
+||*jackoff*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*jackoff*^$document
+||*jerking off*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*jerking off*^$document
+||*juggs*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*juggs*^$document
+||*kinky*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*kinky*^$document
+||*knickers*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*knickers*^$document
+||*lesbian*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*lesbian*^$document
+||*lingerie*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*lingerie*^$document
+||*lolicon*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*lolicon*^$document
+||*masturbation*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*masturbation*^$document
+||*mature*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*mature*^$document
+||*mens club*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*mens club*^$document
+||*menstral*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*menstral*^$document
+||*menstraul*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*menstraul*^$document
+||*menstrual*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*menstrual*^$document
+||*milf*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*milf*^$document
+||*milking*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*milking*^$document
+||*naked*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*naked*^$document
+||*naughty*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*naughty*^$document
+||*not safe 4 work*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*not safe 4 work*^$document
+||*not safe for work*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*not safe for work*^$document
+||*nsfw*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*nsfw*^$document
+||*nude*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*nude*^$document
+||*nudity*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*nudity*^$document
+||*orgasm*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*orgasm*^$document
+||*orgie*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*orgie*^$document
+||*orgy*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*orgy*^$document
+||*panties*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*panties*^$document
+||*pearl necklace*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*pearl necklace*^$document
+||*pegging*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*pegging*^$document
+||*penetration*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*penetration*^$document
+||*penis*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*penis*^$document
+||*playboy*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*playboy*^$document
+||*playgirl*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*playgirl*^$document
+||*playguy*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*playguy*^$document
+||*pleasure*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*pleasure*^$document
+||*porn*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*porn*^$document
+||*pov*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*pov*^$document
+||*preggo*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*preggo*^$document
+||*pregnant*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*pregnant*^$document
+||*pubic*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*pubic*^$document
+||*pussy*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*pussy*^$document
+||*rape*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*rape*^$document
+||*rimjob*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*rimjob*^$document
+||*scat*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*scat*^$document
+||*semen*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*semen*^$document
+||*sex*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*sex*^$document
+||*sexy model*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*sexy model*^$document
+||*sexy tube*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*sexy tube*^$document
+||*sexy video*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*sexy video*^$document
+||*sissi*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*sissi*^$document
+||*sissy*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*sissy*^$document
+||*skank*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*skank*^$document
+||*slut*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*slut*^$document
+||*snuf*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*snuf*^$document
+||*snuff*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*snuff*^$document
+||*sperm*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*sperm*^$document
+||*squirt*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*squirt*^$document
+||*swapping*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*swapping*^$document
+||*threesome*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*threesome*^$document
+||*tits*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*tits*^$document
+||*tranny*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*tranny*^$document
+||*tube8*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*tube8*^$document
+||*twink*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*twink*^$document
+||*upskirt*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*upskirt*^$document
+||*usaxtube.com*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*usaxtube.com*^$document
+||*vagina*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*vagina*^$document
+||*vids*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*vids*^$document
+||*virgin*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*virgin*^$document
+||*whore*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*whore*^$document
+||*wore*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*wore*^$document
+||*xtube*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*xtube*^$document
+||*xxx*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*xxx*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*xxx*^$document
+||*xxx*^$document
+||*yaoi*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*yaoi*^$document
+||*yif*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*yif*^$document
+||*yiff*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*yiff*^$document
+||*yiffy*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*yiffy*^$document
+||*yuri*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||*yuri*^$document
+||xhamster.*^$all,domain=google.co.uk|google.com|bing.com|duckduckgo.com|yahoo.com|yahoo.co.uk
+||xhamster.*^$document
