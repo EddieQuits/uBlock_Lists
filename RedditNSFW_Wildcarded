@@ -145,7 +145,7 @@
 ||reddit.com/r/*boobies*^$inline-script,image,domain=reddit.com
 ||reddit.com/r/*boobkarma*^$inline-script,image,domain=reddit.com
 ||reddit.com/r/*boobland*^$inline-script,image,domain=reddit.com
-||reddit.com/r/*boobs*^$inline-script,image,domain=reddit.com
+||reddit.com/r/*boobs*/*^$inline-script,image,domain=reddit.com
 ||reddit.com/r/*BookNymphs*^$inline-script,image,domain=reddit.com
 ||reddit.com/r/*Boots*^$inline-script,image,domain=reddit.com
 ||reddit.com/r/*booty*^$inline-script,image,domain=reddit.com
