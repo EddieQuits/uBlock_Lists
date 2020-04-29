@@ -390,6 +390,7 @@
 ||reddit.com/r/sex_comics^$inline-script,image,domain=reddit.com
 ||reddit.com/r/sexinfrontofothers^$inline-script,image,domain=reddit.com
 ||reddit.com/r/sextrophies^$inline-script,image,domain=reddit.com
+||reddit.com/r/*sexy*^$inline-script,image,domain=reddit.com
 ||reddit.com/r/sexybutnotporn^$inline-script,image,domain=reddit.com
 ||reddit.com/r/sexyflowerwater^$inline-script,image,domain=reddit.com
 ||reddit.com/r/sexyfrex^$inline-script,image,domain=reddit.com
@@ -1886,4 +1887,7 @@
 ||reddit.com/r/yiffcomics^$inline-script,image,domain=reddit.com
 ||reddit.com/r/yiffgif^$inline-script,image,domain=reddit.com
 ||reddit.com/r/youngporn^$inline-script,image,domain=reddit.com
+||imgur.com^$inline-script,image
+||minus.com^$inline-script,image
+||gfycat.com^$inline-script,image
 @@||reddit.com/r/pornfree/*$all,domain=reddit.com
